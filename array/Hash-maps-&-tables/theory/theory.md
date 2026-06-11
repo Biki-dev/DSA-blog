@@ -631,13 +631,4 @@ That is why hashing is one of the most useful tools in DSA.
 
 ## References
 
-1.Youtube video
- <iframe
-    width="800"
-    height="450"
-    src="https://www.youtube.com/embed/KEs5UyBJ39g"
-    title="Hashing, Hash Table and Map"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-</iframe>
+🔗 **Watch Video:** [Hashing, Hash Table & Map (Striver)](https://youtu.be/KEs5UyBJ39g?si=L-XRfbpEQTuHvZ3O)
